@@ -19,7 +19,7 @@
 ## 기능
 ### 회원서비스
 로그인과 회원가입이 있고 각 파트의 유효성을 검사
-
+![sante-intro](https://github.com/ChoiYeoJin/Sante/assets/17807025/86c1f756-0140-4961-978b-49bc25dadc19)
 ![sante-login](https://github.com/ChoiYeoJin/Sante/assets/17807025/417fa4d5-fdb5-467d-b818-38c62db1c50e)
 ![sante-register](https://github.com/ChoiYeoJin/Sante/assets/17807025/d8032579-5403-46bb-bc7a-3b6d5ce6b6f7)
 
