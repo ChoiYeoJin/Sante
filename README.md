@@ -20,33 +20,36 @@
 ### 회원서비스
 로그인과 회원가입이 있고 각 파트의 유효성을 검사
 
-![sante-login](/uploads/a3b23521a7dbe3fef496ffd4aad74741/sante-login.png)
-![sante-register](/uploads/687b3f2d0818ee8b45395d299bc0b5f8/sante-register.png)
+![sante-login](https://github.com/ChoiYeoJin/Sante/assets/17807025/417fa4d5-fdb5-467d-b818-38c62db1c50e)
+![sante-register](https://github.com/ChoiYeoJin/Sante/assets/17807025/d8032579-5403-46bb-bc7a-3b6d5ce6b6f7)
 
 ### 메인
 - 등록한 운동과 식단을 컬러칩으로 간단하게 한 달치를 확인할 수 있는 캘린더
 - 운동과 식단을 일자별로 관리할 수 있는 카드
 - 주간 달성률을 알려주는 주간 통계
 
-![sante-main](/uploads/1296f2b681dd5b5edcffdf17d7700fea/sante-main.png)
+![sante-main](https://github.com/ChoiYeoJin/Sante/assets/17807025/62cde3db-aebc-41d2-a5eb-440772c3a747)
+
 ### 운동/식단 관리
 자유롭게 커스텀할 수 있는 운동과 식단 추가
 
-![sante-ex](/uploads/041dad9c767be5a98d887a1f3dc26e13/sante-ex.png)
+![sante-ex](https://github.com/ChoiYeoJin/Sante/assets/17807025/89115cfc-fed5-4991-8be0-c6f825a5cf12)
+![sante-food](https://github.com/ChoiYeoJin/Sante/assets/17807025/1e3d23bf-b33f-44fe-ae74-1120f0063c23)
 
-![sante-food](/uploads/f4d9dc775a964f6b72fa65dbc0e1758e/sante-food.png)
 ### 한 눈에 보기
 한 달 단위로 한 눈에 조회하고 수정할 수 있는 리스트 페이지
 
-![sante-list](/uploads/ed1984c8364e0896a458dbf177d457b2/sante-list.png)
+![sante-list](https://github.com/ChoiYeoJin/Sante/assets/17807025/c0850193-97fc-41c2-9c3c-9622eb4419dc)
 ### 수치로 확인
 목표 달성을 위해 월간 데이터를 그래프를 통해 가시적으로 표시
 
-![sante-st](/uploads/bd44e26e92aa9cbbe8f95af9571896c4/sante-st.png)
+![sante-st](https://github.com/ChoiYeoJin/Sante/assets/17807025/bc19da0e-d79e-4c00-b6b7-77f755a1524d)
 ### 모바일 접근성
 반응형으로 처리하여 습관관리를 위해 어디서든 접근할 수 있도록 개발
 
-![m1](/uploads/a167a38da668f0cea9178aaf377518ef/m1.png)
+![m1](https://github.com/ChoiYeoJin/Sante/assets/17807025/58bf8951-641b-4d54-add5-54c88e63b4c7)
+![m2](https://github.com/ChoiYeoJin/Sante/assets/17807025/6f8fba0d-e35b-49db-b669-462378a18a93)
+![m3](https://github.com/ChoiYeoJin/Sante/assets/17807025/f4926776-0ae1-4070-9087-5367cb9aca0c)
 
 ## 기술스택
 
