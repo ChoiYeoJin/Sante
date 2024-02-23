@@ -76,6 +76,7 @@ Zustand
 
 ### 로컬에서 사용하기
 프로젝트를 사용하기에 앞서 `git`과 `npm`이 설치되어 있어야 합니다.
+사이트는 [여기](http://ec2-15-164-132-120.ap-northeast-2.compute.amazonaws.com/)를 클릭해 주세요
 #### 클론
 ```
 git clone https://kdt-gitlab.elice.io/sw_track/class_07/web_project_2/team4/frontend/sante.git
