@@ -3,9 +3,9 @@
 ## 목차
 
 - [개요](#개요)
-- [기능](#기능)
-- [기술스택](#기술스택)
 - [사용법](#사용법)
+- [기술스택](#기술스택)
+- [기능](#기능)
 - [향후계획](#향후계획)
 
 ## 개요
@@ -15,6 +15,55 @@
 
 ### 주요 장점
 목표를 세워도 뚜렷하게 눈에 보이는 결과가 없으면 지속하기 힘든 점에서 착안한 목표를 습관화해 눈에 보이는 수치로 보여주면서 관리할 수 있는 건강 관리 웹앱입니다.
+
+## 사용법
+
+### 로컬에서 사용하기
+프로젝트를 사용하기에 앞서 `git`과 `npm`이 설치되어 있어야 합니다.
+사이트는 [여기](http://ec2-15-164-132-120.ap-northeast-2.compute.amazonaws.com/)를 클릭해 접속해 주세요
+#### 클론
+```
+git clone https://kdt-gitlab.elice.io/sw_track/class_07/web_project_2/team4/frontend/sante.git
+```
+#### 패키지 설치
+```
+npm install
+```
+#### 실행
+```
+npm run dev
+```
+### 배포사이트 이용하기
+#### 사이트 주소
+```
+http://kdt-sw-7-team04.elicecoding.com/
+```
+#### 테스트 계정
+```
+email : person@gmail.com
+pw : as1234!@
+```
+
+## 기술스택
+
+### 프론트엔드
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=black">
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
+<img src="https://img.shields.io/badge/date-fns-770C56?style=for-the-badge&logo=date-fns&logoColor=white">
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=EsLint&logoColor=white">
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+Zustand
+
+### 백엔드
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MONGODB&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+
 
 ## 기능
 ### 회원서비스
@@ -51,54 +100,10 @@
 ![m2](https://github.com/ChoiYeoJin/Sante/assets/17807025/6f8fba0d-e35b-49db-b669-462378a18a93)
 ![m3](https://github.com/ChoiYeoJin/Sante/assets/17807025/f4926776-0ae1-4070-9087-5367cb9aca0c)
 
-## 기술스택
-
-### 프론트엔드
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=black">
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
-<img src="https://img.shields.io/badge/date-fns-770C56?style=for-the-badge&logo=date-fns&logoColor=white">
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=EsLint&logoColor=white">
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-Zustand
-
-### 백엔드
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MONGODB&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 
 
-## 사용법
 
-### 로컬에서 사용하기
-프로젝트를 사용하기에 앞서 `git`과 `npm`이 설치되어 있어야 합니다.
-사이트는 [여기](http://ec2-15-164-132-120.ap-northeast-2.compute.amazonaws.com/)를 클릭해 접속해 주세요
-#### 클론
-```
-git clone https://kdt-gitlab.elice.io/sw_track/class_07/web_project_2/team4/frontend/sante.git
-```
-#### 패키지 설치
-```
-npm install
-```
-#### 실행
-```
-npm run dev
-```
-### 배포사이트 이용하기
-#### 사이트 주소
-```
-http://kdt-sw-7-team04.elicecoding.com/
-```
-#### 테스트 계정
-```
-email : person@gmail.com
-pw : as1234!@
-```
+
 
 ## 향후계획
 
