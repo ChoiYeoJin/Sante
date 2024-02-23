@@ -33,11 +33,6 @@ npm install
 ```
 npm run dev
 ```
-### 배포사이트 이용하기
-#### 사이트 주소
-```
-http://kdt-sw-7-team04.elicecoding.com/
-```
 #### 테스트 계정
 ```
 email : person@gmail.com
