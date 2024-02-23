@@ -2,11 +2,11 @@
 
 ## 목차
 
-1. 개요
-2. 기능
-3. 기술스택
-4. 사용법
-5. 향후계획
+- [개요](#개요)
+- [기능](#기능)
+- [기술스택](#기술스택)
+- [사용법](#사용법)
+- [향후계획](#향후계획)
 
 ## 개요
 
@@ -76,7 +76,7 @@ Zustand
 
 ### 로컬에서 사용하기
 프로젝트를 사용하기에 앞서 `git`과 `npm`이 설치되어 있어야 합니다.
-사이트는 [여기](http://ec2-15-164-132-120.ap-northeast-2.compute.amazonaws.com/)를 클릭해 주세요
+사이트는 [여기](http://ec2-15-164-132-120.ap-northeast-2.compute.amazonaws.com/)를 클릭해 접속해 주세요
 #### 클론
 ```
 git clone https://kdt-gitlab.elice.io/sw_track/class_07/web_project_2/team4/frontend/sante.git
